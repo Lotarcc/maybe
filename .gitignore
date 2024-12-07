@@ -67,4 +67,4 @@ coverage
 # Ignore node related files
 node_modules
 
-.docker-compose.yml
+docker-compose.yml
